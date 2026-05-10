@@ -11,4 +11,4 @@
 ## Credits:  
 - [Zydis](https://zydis.re/)
 - [Felix Cloutier](https://www.felixcloutier.com/x86/)
-- **r41n**
+- [Ra1n](https://www.github.com/67code)
